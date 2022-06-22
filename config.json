@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["6281319339702@s.whatsapp.net"],
+  "ownerName": ["Olvv"],
+  "botName": "Hinata Hyuga Bot",
+  "youtubeOwner": "https://youtube.com/",
+  "donasiDana": "081319339702",
+  "donasiGopay": "085712789786",
+  "sessionName": "session",
+  "pathimg": "./media/hinata.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
